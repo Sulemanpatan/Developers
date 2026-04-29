@@ -1,1 +1,3 @@
-s3.txt added in branch 1 of dev2
+s3.txt added in branch 1 of dev2 
+
+now it is pulled from branch1 to the master
